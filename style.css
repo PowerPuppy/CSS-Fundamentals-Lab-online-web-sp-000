@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-* {text-align: center;}
+ {text-align: center;}
 h1 {text-align: center;}
 nav {}
 section ~ details {text-align: left;}
