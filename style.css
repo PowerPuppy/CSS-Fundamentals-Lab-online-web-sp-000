@@ -5,4 +5,5 @@ body {
 }
 * {text-align: center;}
 h1 {text-align: center;}
-nav {text-align: center;}
+nav {}
+footer {text-align: justify;}
