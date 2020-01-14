@@ -15,4 +15,4 @@ nav {text-align: center; }
 nav>a {padding: 10px; background-color: grey;}
 figcaption {text-align: center; font-size: 10pt;}
 main>p {width: 800px; text-align: center; margin-left: auto; margin-right: auto;}
-footer>div {float: left; width: 25%; background-color: red;}
+footer>div {float: left; width: 25%; background-color: red; text-align: center;}
